@@ -6,9 +6,12 @@
 A virtual photobooth for friends in different places: everyone joins live on video, one countdown, one shared photo strip.
 No app, no sign-up, up to 8 people.
 
+**🎉 10,367 users so far** <sub>(as of Oct 24, 2026)</sub>
+
 <br />
 
 [![Live](https://img.shields.io/badge/▶%20try%20it%20live-onboothvn.com-C93A2B?style=for-the-badge)](https://www.onboothvn.com)
+[![Users](https://img.shields.io/badge/users-10%2C367-E8A93A?style=for-the-badge)](https://www.onboothvn.com)
 [![Instagram](https://img.shields.io/badge/@onbooth.__-221B15?style=for-the-badge&logo=instagram&logoColor=F7F1E3)](https://www.instagram.com/onbooth._)
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-221B15?style=flat-square&logo=nextdotjs&logoColor=F7F1E3)
@@ -276,6 +279,11 @@ Four weeks in July, from an MVP to a public, bilingual product.
 <p align="center"><img src="assets/label-numbers.png" height="64" alt="By the numbers" /></p>
 
 <div align="center">
+
+### 🎉 10,367 users
+<sub>as of Oct 24, 2026</sub>
+
+<br />
 
 | 📅 4 weeks | 📝 130 commits | 👥 up to 8 per booth | 🌏 2 languages |
 | :---: | :---: | :---: | :---: |
